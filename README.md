@@ -2,7 +2,7 @@
 
 An advanced, high-performance conversational interface built with **React.js** and the **Google Gemini Pro** model. This project focuses on solving complex asynchronous UI challenges, such as real-time stream interruption and synchronized state management across a modular architecture.
 
-![Interface Preview](./screenshots/ui-main.png)
+![Interface Preview](./Screenshots/ui-main.png)
 
 ---
 
@@ -44,7 +44,7 @@ Implemented a robust "Stop Generation" feature using **React `useRef` hooks**.
 * `Components/`: Atomic UI design (Sidebar, Greet, SearchBox, ResultDisplay).
 * `Config/`: Secure API initialization and model parameter tuning.
 
-![Project Structure](./screenshots/folder-setup.png)
+![Project Structure](./Screenshots/folder-setup.png)
 
 ---
 
