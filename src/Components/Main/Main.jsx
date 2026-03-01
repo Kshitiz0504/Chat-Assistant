@@ -59,7 +59,7 @@ const Main = () => {
 
               {loading
               ?(<div className='loader'>
-                <p className="thinking-text">Gemini is processing your request...</p>
+                <p className="thinking-text">Processing your request...</p>
                 <hr />
                 <hr />
                 <hr />
