@@ -20,6 +20,7 @@ Implemented a robust "Stop Generation" feature using **React `useRef` hooks**.
 ![Response Preivew](./Screenshots/response.png)
 
 ### ⏱️ Dynamic Performance Metrics
+
 * **Read-Time Estimation:** Analyzes real-time AI output to provide a live "Estimated Read Time" based on word count metrics.
 * **Optimized Rendering:** Leveraged the **Context API** to centralize business logic, preventing unnecessary re-renders in the Sidebar and Main Chat components.
 
